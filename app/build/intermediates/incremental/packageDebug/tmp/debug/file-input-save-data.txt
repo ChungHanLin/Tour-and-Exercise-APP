@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Tue Jan 01 18:13:50 CST 2019
+1.base=/Users/lcha105u/Desktop/SEproject/app/build/intermediates/transforms/dexMerger/debug/1
+2.path=Data.dat
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=/Users/lcha105u/Desktop/SEproject/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+3.set=DEX
+2.set=ASSET
+1.baseType=DIRECTORY
+3.path=classes.dex
+count=4
+1.set=DEX
+0.path=desktop.ini
+3.base=/Users/lcha105u/Desktop/SEproject/app/build/intermediates/transforms/dexMerger/debug/0
+0.set=ASSET
+0.base=/Users/lcha105u/Desktop/SEproject/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+2.baseType=DIRECTORY
+1.path=classes.dex
